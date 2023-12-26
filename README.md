@@ -1,6 +1,6 @@
-<div align="center">
+<h3 align="center">
   Hi, My name is Dmitri Saltanovich
-</div>
+</h3>
 ==========================================================================================================================================
 
 I am a Software Engeneer
