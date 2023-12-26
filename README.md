@@ -3,6 +3,7 @@
 </h2>
 
 <h3 align="center">I am a Software Engeneer</h3>
+
 ------------------------
 
 - Over 12 years of experience in software industry primarly as an Application Developer 
