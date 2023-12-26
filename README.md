@@ -1,4 +1,6 @@
-Hi, My name is Dmitri Saltanovich
+<div align="center">
+  Hi, My name is Dmitri Saltanovich
+</div>
 ==========================================================================================================================================
 
 I am a Software Engeneer
