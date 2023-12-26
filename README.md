@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,tailwind,bootstrap,ts" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ts,tailwind,bootstrap,css,html" />
   </a>
 </p>
 
