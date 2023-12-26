@@ -16,7 +16,9 @@
 ------------------------  
 
 * 🌍  I'm based in Ontario, Canada
-* 🤝  I'm open to collaborating on Freelance and contract work and open for hire
+* 🤝  I'm available for Freelance, contract work and open for hire
+
+------------------------  
 
 ### Languages-Frameworks-Tools ⚒️
 
