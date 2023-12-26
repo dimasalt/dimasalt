@@ -11,7 +11,7 @@ I am a Software Engeneer
 - Strong debugging skills 
 - Strong communication skills and ability to workr in teams on large scale projects.
 
-- - - -
+===================
 
 * 🌍  I'm based in Ontario, Canada
 * 🤝  I'm open to collaborating on Freelance and contract work and open for hire
