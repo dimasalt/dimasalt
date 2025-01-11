@@ -7,21 +7,21 @@
   Hi, My name is Dmitri Saltanovich
 </h2>
 
-<h3 align="center">I am a Software Engeneer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 ------------------------
 
-- Over 12 years of experience in software industry primarly as an Application Developer 
-- Strong expertise in C#, .NET, Javascript ReactJS, Next.js, TypeScript, Microsoft SQL Server and MySQL 
-- Good experience with .NET MVC, JQuery, AngularJS, VueJS, KnockoutJS, Bootstrap and TailwindCSS 
+- Over 12 years of experience in a software industry primarily as an Application Developer 
+- Strong expertise in C#, .NET, Javascript ReactJS, Next.js, TypeScript, Microsoft SQL Server, and MySQL 
+- Good experience with .NET MVC, JQuery, AngularJS, VueJS, KnockoutJS, Bootstrap, and TailwindCSS 
 - Done programming in Java and PHP in the past. 
 - Strong debugging skills 
-- Strong communication skills and ability to workr in teams on large scale projects.
+- Strong communication skills and ability to work in teams on large-scale projects.
 
 ------------------------  
 
 * 🌍  I'm based in Ontario, Canada
-* 🤝  I'm available for Freelance, contract work and open for hire
+* 🤝  I'm available for Freelance, contract work, and open for hire
 
 ------------------------  
 
