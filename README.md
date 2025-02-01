@@ -12,7 +12,7 @@
 ------------------------
 
 - Over 12 years of experience in a software industry primarily as an Application Developer 
-- Strong expertise in C#, .NET, Javascript ReactJS, Next.js, TypeScript, Microsoft SQL Server, and MySQL 
+- Strong expertise in C#, .NET, Javascript React, Next.js, TypeScript, Microsoft SQL Server, PostgreSQL and MySQL 
 - Good experience with .NET MVC, JQuery, AngularJS, VueJS, KnockoutJS, Bootstrap, and TailwindCSS 
 - Done programming in Java and PHP in the past. 
 - Strong debugging skills 
